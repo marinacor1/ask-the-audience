@@ -1,0 +1,25 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "web socket practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinacor1/ask-the-audience.git"
+  },
+  "author": "Marina Corona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinacor1/ask-the-audience/issues"
+  },
+  "homepage": "https://github.com/marinacor1/ask-the-audience#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.13.1",
+    "socket.io": "^1.4.8"
+  }
+}
